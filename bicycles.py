@@ -26,3 +26,5 @@ print(message)
 
 message = names[2] + "我来了！"
 print(message)
+
+input("Press <enter>")
